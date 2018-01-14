@@ -1,8 +1,8 @@
-# Jira-circleci-api
-FOR VICEQA tickets in jira, we have transition id to update issue status.
+# Jira-api
+FOR tickets in jira, we have transition id to update issue status.
 
 ## qa tickets status
-List CMS tickets issue transition id as below:
+List tickets issue transition id as below(Could be different from jira setting):
 Todo:
 ```{"transition":{"id":"11"}}    TODO```
 
